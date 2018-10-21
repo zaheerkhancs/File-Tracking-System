@@ -1,0 +1,15 @@
+C:\Projects\FMS\DALClassess\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FMS\DALClassess\bin\Debug\DALClassess.dll
+C:\Projects\FMS\DALClassess\bin\Debug\DALClassess.pdb
+C:\Projects\FMS\DALClassess\obj\Debug\DALClassess.dll
+C:\Projects\FMS\DALClassess\obj\Debug\DALClassess.pdb
+E:\Election Project\Database\IEC Finance System\FMS_APP\DALClassess\bin\Debug\DALClassess.dll
+E:\Election Project\Database\IEC Finance System\FMS_APP\DALClassess\bin\Debug\DALClassess.pdb
+E:\Election Project\Database\IEC Finance System\FMS_APP\DALClassess\obj\Debug\ResolveAssemblyReference.cache
+E:\Election Project\Database\IEC Finance System\FMS_APP\DALClassess\obj\Debug\DALClassess.dll
+E:\Election Project\Database\IEC Finance System\FMS_APP\DALClassess\obj\Debug\DALClassess.pdb
+C:\Projects\FMS_APP\DALClassess\bin\Debug\DALClassess.dll
+C:\Projects\FMS_APP\DALClassess\bin\Debug\DALClassess.pdb
+C:\Projects\FMS_APP\DALClassess\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FMS_APP\DALClassess\obj\Debug\DALClassess.dll
+C:\Projects\FMS_APP\DALClassess\obj\Debug\DALClassess.pdb

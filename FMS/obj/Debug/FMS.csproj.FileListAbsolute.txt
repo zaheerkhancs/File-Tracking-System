@@ -1,0 +1,27 @@
+C:\Projects\FMS\FMS_App\FMS\bin\FMS.dll
+C:\Projects\FMS\FMS_App\FMS\bin\FMS.pdb
+C:\Projects\FMS\FMS_App\FMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FMS\FMS_App\FMS\obj\Debug\FMS.dll
+C:\Projects\FMS\FMS_App\FMS\obj\Debug\FMS.pdb
+C:\Projects\FMS\FMS_App\FMS\bin\DALClassess.dll
+C:\Projects\FMS\FMS_App\FMS\bin\DALClassess.pdb
+C:\Projects\FMS\FMS\bin\FMS.dll
+C:\Projects\FMS\FMS\bin\FMS.pdb
+C:\Projects\FMS\FMS\bin\DALClassess.pdb
+C:\Projects\FMS\FMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FMS\FMS\obj\Debug\FMS.dll
+C:\Projects\FMS\FMS\obj\Debug\FMS.pdb
+E:\Election Project\Database\IEC Finance System\FMS_APP\FMS\bin\FMS.dll
+E:\Election Project\Database\IEC Finance System\FMS_APP\FMS\bin\FMS.pdb
+E:\Election Project\Database\IEC Finance System\FMS_APP\FMS\obj\Debug\ResolveAssemblyReference.cache
+E:\Election Project\Database\IEC Finance System\FMS_APP\FMS\obj\Debug\FMS.dll
+E:\Election Project\Database\IEC Finance System\FMS_APP\FMS\obj\Debug\FMS.pdb
+E:\Election Project\Database\IEC Finance System\FMS_APP\FMS\bin\DALClassess.dll
+E:\Election Project\Database\IEC Finance System\FMS_APP\FMS\bin\DALClassess.pdb
+C:\Projects\FMS_APP\FMS\bin\FMS.dll
+C:\Projects\FMS_APP\FMS\bin\FMS.pdb
+C:\Projects\FMS_APP\FMS\bin\DALClassess.dll
+C:\Projects\FMS_APP\FMS\bin\DALClassess.pdb
+C:\Projects\FMS_APP\FMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FMS_APP\FMS\obj\Debug\FMS.dll
+C:\Projects\FMS_APP\FMS\obj\Debug\FMS.pdb

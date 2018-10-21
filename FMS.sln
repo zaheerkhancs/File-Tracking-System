@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALClassess", "DALClassess\DALClassess.csproj", "{71B60482-FA23-40E9-B2CF-10480E8B74EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMS", "FMS\FMS.csproj", "{B3AF9BAD-E7C6-4E6F-BCC8-89EDC70DF50B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B60482-FA23-40E9-B2CF-10480E8B74EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B60482-FA23-40E9-B2CF-10480E8B74EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B60482-FA23-40E9-B2CF-10480E8B74EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B60482-FA23-40E9-B2CF-10480E8B74EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AF9BAD-E7C6-4E6F-BCC8-89EDC70DF50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AF9BAD-E7C6-4E6F-BCC8-89EDC70DF50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AF9BAD-E7C6-4E6F-BCC8-89EDC70DF50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AF9BAD-E7C6-4E6F-BCC8-89EDC70DF50B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

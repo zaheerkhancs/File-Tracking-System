@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{71B60482-FA23-40E9-B2CF-10480E8B74EE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DALClassess</RootNamespace>
+    <AssemblyName>DALClassess</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions.Design">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FMSCommon.cs" />
+    <Compile Include="FMSDB.cs" />
+    <Compile Include="FMSDB_Base.cs" />
+    <Compile Include="Message.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tblBudgetCollection.cs" />
+    <Compile Include="tblBudgetCollection_Base.cs" />
+    <Compile Include="tblBudgetRow.cs" />
+    <Compile Include="tblBudgetRow_Base.cs" />
+    <Compile Include="tblcompanyCollection.cs" />
+    <Compile Include="tblcompanyCollection_Base.cs" />
+    <Compile Include="tblcompanyRow.cs" />
+    <Compile Include="tblcompanyRow_Base.cs" />
+    <Compile Include="tblCurrencyCollection.cs" />
+    <Compile Include="tblCurrencyCollection_Base.cs" />
+    <Compile Include="tblCurrencyRow.cs" />
+    <Compile Include="tblCurrencyRow_Base.cs" />
+    <Compile Include="tblDonorCollection.cs" />
+    <Compile Include="tblDonorCollection_Base.cs" />
+    <Compile Include="tblDonorRow.cs" />
+    <Compile Include="tblDonorRow_Base.cs" />
+    <Compile Include="tblDonor_ContactCollection.cs" />
+    <Compile Include="tblDonor_ContactCollection_Base.cs" />
+    <Compile Include="tblDonor_ContactRow.cs" />
+    <Compile Include="tblDonor_ContactRow_Base.cs" />
+    <Compile Include="tblDonor_TypeCollection.cs" />
+    <Compile Include="tblDonor_TypeCollection_Base.cs" />
+    <Compile Include="tblDonor_TypeRow.cs" />
+    <Compile Include="tblDonor_TypeRow_Base.cs" />
+    <Compile Include="tblExchange_RateCollection.cs" />
+    <Compile Include="tblExchange_RateCollection_Base.cs" />
+    <Compile Include="tblExchange_RateRow.cs" />
+    <Compile Include="tblExchange_RateRow_Base.cs" />
+    <Compile Include="tblFundCollection.cs" />
+    <Compile Include="tblFundCollection_Base.cs" />
+    <Compile Include="tblFundRow.cs" />
+    <Compile Include="tblFundRow_Base.cs" />
+    <Compile Include="tblGeneral_JournalCollection.cs" />
+    <Compile Include="tblGeneral_JournalCollection_Base.cs" />
+    <Compile Include="tblGeneral_JournalRow.cs" />
+    <Compile Include="tblGeneral_JournalRow_Base.cs" />
+    <Compile Include="tblGL_AccountCollection.cs" />
+    <Compile Include="tblGL_AccountCollection_Base.cs" />
+    <Compile Include="tblGL_AccountRow.cs" />
+    <Compile Include="tblGL_AccountRow_Base.cs" />
+    <Compile Include="tblGL_Act_TypeCollection.cs" />
+    <Compile Include="tblGL_Act_TypeCollection_Base.cs" />
+    <Compile Include="tblGL_Act_TypeRow.cs" />
+    <Compile Include="tblGL_Act_TypeRow_Base.cs" />
+    <Compile Include="tblInvoiceCollection.cs" />
+    <Compile Include="tblInvoiceCollection_Base.cs" />
+    <Compile Include="tblInvoiceRow.cs" />
+    <Compile Include="tblInvoiceRow_Base.cs" />
+    <Compile Include="tblInvoice_DetailCollection.cs" />
+    <Compile Include="tblInvoice_DetailCollection_Base.cs" />
+    <Compile Include="tblInvoice_DetailRow.cs" />
+    <Compile Include="tblInvoice_DetailRow_Base.cs" />
+    <Compile Include="tblItemCollection.cs" />
+    <Compile Include="tblItemCollection_Base.cs" />
+    <Compile Include="tblItemRow.cs" />
+    <Compile Include="tblItemRow_Base.cs" />
+    <Compile Include="tblItem_TypeCollection.cs" />
+    <Compile Include="tblItem_TypeCollection_Base.cs" />
+    <Compile Include="tblItem_TypeRow.cs" />
+    <Compile Include="tblItem_TypeRow_Base.cs" />
+    <Compile Include="tblPaymentCollection.cs" />
+    <Compile Include="tblPaymentCollection_Base.cs" />
+    <Compile Include="tblPaymentRow.cs" />
+    <Compile Include="tblPaymentRow_Base.cs" />
+    <Compile Include="tblRecentLogCollection.cs" />
+    <Compile Include="tblRecentLogCollection_Base.cs" />
+    <Compile Include="tblRecentLogRow.cs" />
+    <Compile Include="tblRecentLogRow_Base.cs" />
+    <Compile Include="tblRoleCollection.cs" />
+    <Compile Include="tblRoleCollection_Base.cs" />
+    <Compile Include="tblRoleRow.cs" />
+    <Compile Include="tblRoleRow_Base.cs" />
+    <Compile Include="tblUsersCollection.cs" />
+    <Compile Include="tblUsersCollection_Base.cs" />
+    <Compile Include="tblUsersRow.cs" />
+    <Compile Include="tblUsersRow_Base.cs" />
+    <Compile Include="tblVendorCollection.cs" />
+    <Compile Include="tblVendorCollection_Base.cs" />
+    <Compile Include="tblVendorRow.cs" />
+    <Compile Include="tblVendorRow_Base.cs" />
+    <Compile Include="tblVendor_TypeCollection.cs" />
+    <Compile Include="tblVendor_TypeCollection_Base.cs" />
+    <Compile Include="tblVendor_TypeRow.cs" />
+    <Compile Include="tblVendor_TypeRow_Base.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
